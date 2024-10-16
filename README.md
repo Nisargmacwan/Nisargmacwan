@@ -1,3 +1,4 @@
+![logo](https://github.com/Nisargmacwan/Nisargmacwan/blob/main/Screenshot%202024-10-17%20004945.png)
 <h1 align="center">Hey there, 👋, I'm Nisarg Macwan</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
